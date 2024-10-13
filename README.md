@@ -1,4 +1,4 @@
-# DATA 602 Airline Cusomer Satisfaction
+# DATA 602 Airline Customer Satisfaction
 
 **Funding Opportunity: Enhancing Airline Passenger Satisfaction Through Data Analytics**
 
